@@ -1,2 +1,3 @@
 # JS_practice
-Collection of my javascript practices
+Collection of my javascript practices from the OTP
+
